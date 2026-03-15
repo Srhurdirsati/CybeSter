@@ -68,6 +68,5 @@ NOTE - I have removed BT Beacause i made an error so I am currently using AUX ou
 > Upload the code.
 
 
-## JLCPCB
 
 
