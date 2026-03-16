@@ -2,21 +2,27 @@
 
 Cyberster is a mp3 portable MP3 player using different electronic modules. It can play music from an SD card and send audio through AUX or Bluetooth. A screen is used to show the menu and song information. The device also uses a Type-C port for power and transferring music files.
 
-## BOM 
+## Complete Hardware & BOM Table
 
-## Core BOM (LCSC Parts for JLCPCB Assembly)
-
-| Ref | Component | Manufacturer Part | LCSC Part # | Qty | Function |
-|-----|-----------|------------------|-------------|-----|----------|
-| U1 | WiFi + Bluetooth module | ESP32-S3-WROOM-1-N16R8 | C2913202 | 1 | Main MCU |
-| U2 | MP3 decoder IC | VS1053B-L | C13316 | 1 | MP3 audio decoding |
-| U3 | Li-ion charger IC | TP4056 | C16581 | 1 | Battery charging |
-| U4 | 3.3V LDO regulator | AMS1117-3.3 | C6186 | 1 | 3.3V supply |
-| J1 | USB Type-C connector | TYPE-C-31-M-12 | C165948 | 1 | USB data + power |
-| J2 | MicroSD card socket | MICRO-SD-DM3D-SF | C91145 | 1 | Music storage |
-| J3 | 3.5mm audio jack | PJ-320A | C128188 | 1 | AUX output |
-| J4 | Battery connector | JST-PH-2A-SMD | C160404 | 1 | LiPo battery |
-| J5 | Pin header for TFT | 2.54mm 1×8 header | C49257 | 1 | TFT connection |
+| Ref | Component / Module | Example / Manufacturer Part | LCSC Part # | Qty |
+|-----|--------------------|-----------------------------|-------------|-----|
+| U1 | ESP32-S3 WiFi + Bluetooth module | ESP32-S3-WROOM-1-N16R8 | C2913202 | 1 | 
+| U2 | MP3 audio decoder | VS1053B-L | C13316 | 1 |
+| U3 | 3.3V LDO regulator | AMS1117-3.3 | C6186 | 1 |
+| J1 | USB Type-C connector | TYPE-C-31-M-12 | C165948 | 1 | 
+| J2 | MicroSD card socket | MICRO-SD-DM3D-SF | C91145 | 1 |
+| J3 | 3.5mm headphone jack | PJ-320A | C128188 | 1 | 
+| X1 | Crystal oscillator | 12MHz SMD | C9002 | 1 | 
+| C1 | Bulk capacitor | 10µF 0603 | C19702 | 2 | 
+| C2 | Decoupling capacitor | 0.1µF 0603 | C14663 | 6 | 
+| R1 | USB CC resistor | 5.1k 0603 | C23186 | 2 | 
+| R2 | USB series resistor | 22Ω 0603 | C23345 | 2 | 
+| D1 | Charge indicator LED | Red SMD LED | C2984265 | 
+| J4 | Battery connector | JST-PH-2A-SMD | C160404 | 1 | 
+| DISP | TFT Display | ST7789 SPI 240×240 | — | 1 | 
+| BAT | Battery | 3.7V LiPo | — | 1 | 
+| CHG | Battery charger | TP4056 module | C16581 | 1 | 
+| BTN | Buttons  | Tactile switches | — | 6 |
 
 ## Features 
 
