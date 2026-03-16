@@ -24,6 +24,8 @@ Cyberster is a mp3 portable MP3 player using different electronic modules. It ca
 | CHG | Battery charger | TP4056 module | C16581 | 1 | 
 | BTN | Buttons  | Tactile switches | — | 6 |
 
+
+
 ## Features 
 
 > MP3 playback from SD card
@@ -104,7 +106,12 @@ nd ur good to go now ....
 
 <img width="1125" height="704" alt="DISPLAY" src="https://github.com/user-attachments/assets/85662e3e-7ef2-4694-80a1-d7816124d8f5" />
 
-Total = 85 USD
+
+
+TFT = 13 USD, ESP-32 = 7 USD, JLC = 67 
+
+Total = 87 USD With Shipping 
+
 
 
 
