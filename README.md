@@ -84,9 +84,9 @@ nd ur good to go now ....
 
 <img width="1535" height="898" alt="image" src="https://github.com/user-attachments/assets/3c730610-5af8-4006-a271-a77e10744079" />
 
-<img width="749" height="913" alt="image" src="https://github.com/user-attachments/assets/9103c617-fdbe-401d-bd9b-b25f4bcea79b" />
+<img width="706" height="915" alt="image" src="https://github.com/user-attachments/assets/076a558c-8446-4371-b5b5-7d823b2a27b3" />
 
-<img width="1104" height="916" alt="image" src="https://github.com/user-attachments/assets/793188d7-f49b-4fdb-901f-a5d9e6c84e6b" />
+<img width="1050" height="841" alt="image" src="https://github.com/user-attachments/assets/f12bdcaa-5124-43f5-bf81-b4286e1eef95" />
 
 <img width="1536" height="896" alt="image" src="https://github.com/user-attachments/assets/6503a1f1-086c-4802-863e-c8f4a82134d2" />
 
