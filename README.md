@@ -78,7 +78,7 @@ And you are good to go now ....
 
 > Playlist
 
-> Better Animations, etcetcetc.....
+> Better Animations, etc.
 
 ## Images
 
