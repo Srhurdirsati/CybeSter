@@ -44,6 +44,8 @@ Cyberster is a portable MP3 player using different electronic modules. It can pl
 
 > Aux Output
 
+The display needs to be just vertically mounted on the mounting poles .
+
 ## Usage 
 
 > Install Arduino IDE.
