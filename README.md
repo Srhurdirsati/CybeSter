@@ -70,7 +70,8 @@ Next you will need to plug the battery to the jst connector below the board and 
 <img width="1651" height="899" alt="image" src="https://github.com/user-attachments/assets/a0c71bbf-84b9-460b-9f0f-2393c04b39b4" />
 
 
-<img width="706" height="915" alt="image" src="https://github.com/user-attachments/assets/076a558c-8446-4371-b5b5-7d823b2a27b3" />
+<img width="894" height="911" alt="image" src="https://github.com/user-attachments/assets/76e5267a-9957-4da2-817c-43936888694d" />
+
 
 <img width="1050" height="841" alt="image" src="https://github.com/user-attachments/assets/f12bdcaa-5124-43f5-bf81-b4286e1eef95" />
 
