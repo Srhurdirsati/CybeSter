@@ -51,7 +51,7 @@ The display needs to be just vertically mounted on the mounting poles .
 
 > Upload the code.
 
-And you are good to go now ....
+Now you are done setting it up .
 
 ## Future Possible Updates
 
@@ -91,7 +91,7 @@ And you are good to go now ....
 
 <img width="1125" height="704" alt="DISPLAY" src="https://github.com/user-attachments/assets/85662e3e-7ef2-4694-80a1-d7816124d8f5" />
 
-I'll connect the display with wires as the orientation of diaply is differernt from the one it's in PCB and i can't change beacause I don't have my PC now amd am on Mobile
+I'll connect the display with wires as the orientation of display is differernt from the one it's in PCB and i can't change because I don't have my PC now amd am on Mobile
 
 This was my most difficult and complex project till now and most timetaking so I just wan't to say that PCB won't feel easy at all if you are a begginer and also make sure u have enough knowledge to start .
 
