@@ -51,7 +51,9 @@ The display needs to be just vertically mounted on the mounting poles .
 
 > Upload the code.
 
-Now you are done setting it up .
+Now you are done setting it up the firmmware . 
+
+Next you will need to plug the battery to the jst connector below the board and make sure its properly connected at appropriate poles. The buttons would be pressed by the 3d model of button which would be inserted from below the top plate at it's desired holes and it will automatically fit in that . No need to solder anything .
 
 ## Future Possible Updates
 
