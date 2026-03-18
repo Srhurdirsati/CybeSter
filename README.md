@@ -1,6 +1,6 @@
 # CyberSter
 
-Cyberster is a mp3 portable MP3 player using different electronic modules. It can play music from an SD card and send audio through AUX or Bluetooth. A screen is used to show the menu and song information. The device also uses a Type-C port for power and transferring music files.
+Cyberster is a portable MP3 player using different electronic modules. It can play music from an SD card and send audio through AUX or Bluetooth. A screen is used to show the menu and song information. The device also uses a Type-C port for power and transferring music files.
 
 ## Complete Hardware & BOM Table
 
@@ -68,7 +68,7 @@ Cyberster is a mp3 portable MP3 player using different electronic modules. It ca
 
 > Upload the code.
 
-nd ur good to go now ....
+And you are good to go now ....
 
 ## Future Possible Updates
 
@@ -110,6 +110,7 @@ nd ur good to go now ....
 
 I'll connect the display with wires as the orientation of diaply is differernt from the one it's in PCB and i can't change beacause I don't have my PC now amd am on Mobile
 
+This was my most difficult and complex project till now and most timetaking so I just wan't to say that PCB won't feel easy at all if you are a begginer and also make sure u have enough knowledge to start .
 
 
 TFT = 13 USD, ESP-32 = 7 USD, JLC = 67 
