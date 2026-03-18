@@ -93,7 +93,7 @@ Next you will need to plug the battery to the jst connector below the board and 
 
 <img width="1125" height="704" alt="DISPLAY" src="https://github.com/user-attachments/assets/85662e3e-7ef2-4694-80a1-d7816124d8f5" />
 
-I'll connect the display with wires as the orientation of display is differernt from the one it's in PCB and i can't change because I don't have my PC now amd am on Mobile
+
 
 This was my most difficult and complex project till now and most timetaking so I just wan't to say that PCB won't feel easy at all if you are a beginner and also make sure u have enough knowledge to start .
 
