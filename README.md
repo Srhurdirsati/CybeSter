@@ -51,7 +51,7 @@ The display needs to be just vertically mounted on the mounting poles .
 
 > Upload the code.
 
-Now you are done setting it up the firmmware . 
+Now you are done setting it up the firmware . 
 
 Next you will need to plug the battery to the jst connector below the board and make sure its properly connected at appropriate poles. The buttons would be pressed by the 3d model of button which would be inserted from below the top plate at it's desired holes and it will automatically fit in that . No need to solder anything .
 
@@ -95,7 +95,7 @@ Next you will need to plug the battery to the jst connector below the board and 
 
 I'll connect the display with wires as the orientation of display is differernt from the one it's in PCB and i can't change because I don't have my PC now amd am on Mobile
 
-This was my most difficult and complex project till now and most timetaking so I just wan't to say that PCB won't feel easy at all if you are a begginer and also make sure u have enough knowledge to start .
+This was my most difficult and complex project till now and most timetaking so I just wan't to say that PCB won't feel easy at all if you are a beginner and also make sure u have enough knowledge to start .
 
 
 TFT = 13 USD, ESP-32 = 7 USD, JLC = 67 
